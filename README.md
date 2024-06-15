@@ -1,4 +1,4 @@
-# Recepies
+# Recipes
 This is my personal test project. I'm creating web site with some recipes.
 
 ### Odin course
